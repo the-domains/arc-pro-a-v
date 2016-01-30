@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ARC Pro A/V]]></title>
+        <description><![CDATA[ARC Pro A/V]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 05:00:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>ARC Pro Audio Visual provides exceptional care and professionalism to each and every event we contribute.  We combine skill and deep industry knowledge with the attention to detail you crave from your A/V team.  Let us take you event to the next level.</p></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">90bcbb41-e008-450f-808a-0550a19437ac</guid>
+            <pubDate>Sat, 30 Jan 2016 04:59:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
