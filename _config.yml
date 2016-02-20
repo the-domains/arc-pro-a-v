@@ -1,6 +1,6 @@
 name: ARC Pro Audio Visual
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.88618
 typography_spectrum: 0.56791
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#0089ff'
     - '#00f4fe'
     - '#b15300'
-  brandStrength: 0.125
+  brandStrength: 0.6875
   lightness: 0.875
   saturation: 0.75
-  rhythmicContrast: 0.8719122214242816
+  rhythmicContrast: 0.75
 purpose: []
